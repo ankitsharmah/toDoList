@@ -8,7 +8,7 @@ let r =document.querySelector('input').value;
         var c=t.value;
         console.log(c);
         if(c.length<=0){
-            alert('Please enter');
+            alert('Please enter your toDoList');
         }
 
     // let t=document.querySelector('input');
